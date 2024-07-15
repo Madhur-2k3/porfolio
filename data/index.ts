@@ -100,34 +100,35 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+      "Working with Madhur was an absolute delight.  His professionalism, responsiveness, and unwavering commitment to achieving outstanding results shone through at every turn during our project.  What truly sets Madhur apart is his infectious enthusiasm for every aspect of the development process. He wasn't just going through the motions; his genuine excitement for the work was palpable. If you're looking to take your website and brand to the next level, Madhur is the ideal collaborator.",
     name: "T Sujanavan",
     title: "Assistant Professor, Dept. of CSE, MVSREC",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+      "Working with Madhur was an absolute delight.  His professionalism, responsiveness, and unwavering commitment to achieving outstanding results shone through at every turn during our project.  What truly sets Madhur apart is his infectious enthusiasm for every aspect of the development process. He wasn't just going through the motions; his genuine excitement for the work was palpable. If you're looking to take your website and brand to the next level, Madhur is the ideal collaborator.",
     name: "T Sujanavan",
     title: "Assistant Professor, Dept. of CSE, MVSREC",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+      "Working with Madhur was an absolute delight.  His professionalism, responsiveness, and unwavering commitment to achieving outstanding results shone through at every turn during our project.  What truly sets Madhur apart is his infectious enthusiasm for every aspect of the development process. He wasn't just going through the motions; his genuine excitement for the work was palpable. If you're looking to take your website and brand to the next level, Madhur is the ideal collaborator.",
     name: "T Sujanavan",
     title: "Assistant Professor, Dept. of CSE, MVSREC",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+      "Working with Madhur was an absolute delight.  His professionalism, responsiveness, and unwavering commitment to achieving outstanding results shone through at every turn during our project.  What truly sets Madhur apart is his infectious enthusiasm for every aspect of the development process. He wasn't just going through the motions; his genuine excitement for the work was palpable. If you're looking to take your website and brand to the next level, Madhur is the ideal collaborator.",
     name: "T Sujanavan",
     title: "Assistant Professor, Dept. of CSE, MVSREC",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+      "Working with Madhur was an absolute delight.  His professionalism, responsiveness, and unwavering commitment to achieving outstanding results shone through at every turn during our project.  What truly sets Madhur apart is his infectious enthusiasm for every aspect of the development process. He wasn't just going through the motions; his genuine excitement for the work was palpable. If you're looking to take your website and brand to the next level, Madhur is the ideal collaborator.",
     name: "T Sujanavan",
     title: "Assistant Professor, Dept. of CSE, MVSREC",
   },
+
 ];
 
 export const companies = [
